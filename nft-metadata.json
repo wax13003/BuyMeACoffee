@@ -1,0 +1,9 @@
+{
+    "attributes" : [ {
+      "trait_type" : "receipt",
+      "value" : "coffee"
+    } ],
+    "description" : "The coffee receipt.",
+    "image" : "https://gateway.pinata.cloud/ipfs/QmSdrUyCAjx1Au1x6CkXW7ygFfqg6Rw6AiFJJWKWrxwE9W",
+    "name" : "coffee"
+}
